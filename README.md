@@ -4,7 +4,7 @@
 - 💬 Ask me about ... Competetive Coding and Front End Development
 - ⚡ Fun fact: ...The first computer virus was created by a 15-year-old in 1982.
 
-Third Year Student at Vellore Institute of Technology, Vellore pursuing B.Tech focused in Computer Science . Skilled in C++,Data Structures, HTML/CSS . Budding Web Developer . I also love to learn and explore about new technologies in varoius technical domains.Currently engaged in learning Backend Web development technologies .
+Final Year Student at Vellore Institute of Technology, Vellore pursuing B.Tech focused in Computer Science . Skilled in C++,Data Structures, HTML/CSS . Budding Web Developer . I also love to learn and explore about new technologies in varoius technical domains.Currently engaged in learning Backend Web development technologies .
 
 See my portfolio at <a>https://sakshamdewan.me/</a>
 
