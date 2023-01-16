@@ -1,10 +1,10 @@
 ### Hey there 👋 I'm Saksham Dewan
 
-- 🌱 I’m currently learning ... Backend Web Developent 
-- 💬 Ask me about ... Competetive Coding and Front End Development
+- 🌱 I’m currently practicing ... Competetive Coding.
+- 💬 Ask me about ... Competetive Coding and Front End Development.
 - ⚡ Fun fact: ...The first computer virus was created by a 15-year-old in 1982.
 
-Final Year Student at Vellore Institute of Technology, Vellore pursuing B.Tech focused in Computer Science . Skilled in C++,Data Structures, HTML/CSS . Budding Web Developer . I also love to learn and explore about new technologies in varoius technical domains.Currently engaged in learning Backend Web development technologies .
+Final Year Student at Vellore Institute of Technology, Vellore pursuing B.Tech focused in Computer Science . Skilled in C++,Data Structures, HTML/CSS . Budding Web Developer . I also love to learn and explore about new technologies in varoius technical domains.Currently interning at Trellix (Formerly McAfee and FireEye) as a software engineer in the domain of cybersecurity.
 
 See my portfolio at <a>https://sakshamdewan.me/</a>
 
