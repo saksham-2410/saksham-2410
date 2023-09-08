@@ -4,7 +4,9 @@
 - 💬 Ask me about ... Competetive Coding and Front End Development.
 - ⚡ Fun fact: ...The first computer virus was created by a 15-year-old in 1982.
 
-Final Year Student at Vellore Institute of Technology, Vellore pursuing B.Tech focused in Computer Science . Skilled in C++,Data Structures, HTML/CSS . Budding Web Developer . I also love to learn and explore about new technologies in varoius technical domains.Currently interning at Trellix (Formerly McAfee and FireEye) as a software engineer in the domain of cybersecurity.
+Software Engineer at Trellix (formerly McAfee and FireEye) working in cybersecurity space and tackling complex development challenges. 
+Recent Computer Science Engineering graduate from Vellore Institute of Technology with expertise in skills like C++, Data Structures and Algorithms, HTML/CSS, and JavaScript. 
+I thrive on solving problems and embracing coding challenges, while also nurturing a passion for learning the fundamentals of business world . Hoping to bring positive change to this world ! 🚀
 
 See my portfolio at <a>https://sakshamdewan.me/</a>
 
