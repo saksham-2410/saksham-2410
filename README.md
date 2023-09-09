@@ -8,7 +8,7 @@ Software Engineer at Trellix (formerly McAfee and FireEye) working in cybersecur
 Recent Computer Science Engineering graduate from Vellore Institute of Technology with expertise in skills like C++, Data Structures and Algorithms, HTML/CSS, and JavaScript. 
 I thrive on solving problems and embracing coding challenges, while also nurturing a passion for learning the fundamentals of business world . Hoping to bring positive change to this world ! 🚀
 
-See my portfolio at <a>https://sakshamdewan.me/</a>
+See my portfolio at <a>https://sakshamdewan.netlify.com/</a>
 
 
 <h3 align="left">How to reach me:</h3>
