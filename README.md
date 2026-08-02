@@ -1,11 +1,11 @@
 ### Hey there 👋 I'm Saksham Dewan
 
-- 🌱 I’m currently practicing ... Competetive Coding.
-- 💬 Ask me about ... Competetive Coding and Front End Development.
+- 🌱 I’m currently practicing ... Agentic AI .
+- 💬 Ask me about ... LLMs and AI Agents .
 - ⚡ Fun fact: ...The first computer virus was created by a 15-year-old in 1982.
 
-Software Engineer at Trellix (formerly McAfee and FireEye) working in cybersecurity space and tackling complex development challenges. 
-Recent Computer Science Engineering graduate from Vellore Institute of Technology with expertise in skills like C++, Data Structures and Algorithms, HTML/CSS, and JavaScript. 
+Software Engineer II at Trellix (formerly McAfee and FireEye) working in cybersecurity space and tackling complex development challenges. 
+Computer Science Engineering graduate from Vellore Institute of Technology with expertise in skills like C++, Data Structures and Algorithms, and Python. 
 I thrive on solving problems and embracing coding challenges, while also nurturing a passion for learning the fundamentals of business world . Hoping to bring positive change to this world ! 🚀
 
 See my portfolio at <a>[https://sakshamdewan.netlify.com](https://sakshamdewan.netlify.app/)/</a>
