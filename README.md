@@ -1,21 +1,42 @@
-### Hey there 👋 I'm Saksham Dewan
+<div align="center">
 
-- 🌱 I’m currently practicing ... Competetive Coding.
-- 💬 Ask me about ... Competetive Coding and Front End Development.
-- ⚡ Fun fact: ...The first computer virus was created by a 15-year-old in 1982.
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock --out wordmark.svg
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-Software Engineer at Trellix (formerly McAfee and FireEye) working in cybersecurity space and tackling complex development challenges. 
-Recent Computer Science Engineering graduate from Vellore Institute of Technology with expertise in skills like C++, Data Structures and Algorithms, HTML/CSS, and JavaScript. 
-I thrive on solving problems and embracing coding challenges, while also nurturing a passion for learning the fundamentals of business world . Hoping to bring positive change to this world ! 🚀
+<h3><code>sd@github ~ $ whoami</code></h3>
 
-See my portfolio at <a>[https://sakshamdewan.netlify.com](https://sakshamdewan.netlify.app/)/</a>
+<table>
+<tr>
+<td valign="top"><img src="./sd-ascii.svg" width="370" alt="Saksham Dewan — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="SD — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
+<br>
+<br>
 
-<h3 align="left">How to reach me:</h3>
-<p align="left">
-<a href="https://twitter.com/dsaksham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsaksham_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dsaksham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsaksham" height="30" width="40" /></a>
-</p>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3 align="left">Languages and Tools Engaged in:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3><code>sd@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Saksham's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>sd@github ~ $ ./links.sh</code></h3>
+
+<p><b>Software Engineer @ Trellix · Cybersecurity · Competitive Programmer</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sakshamdewan.netlify.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sakshamdewan.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dsaksham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dsaksham)
+[![Twitter](https://img.shields.io/badge/Twitter-dsaksham__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dsaksham_)
+
+<br>
+
+</div>
